@@ -1,0 +1,8 @@
+gh_url: https://github.com/nottyo
+browser: chrome
+account_name: nottyo
+explicit_timeout: 10s
+
+#api
+gh_api: https://api.github.com
+get_users: /users

@@ -1,0 +1,6 @@
+pyyaml==3.12
+robotframework==3.0.2
+robotframework-selenium2library==1.8.0
+robotframework-lint==0.9
+robotframework-requests==0.4.7
+requests==2.18.1
