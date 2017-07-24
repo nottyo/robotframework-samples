@@ -6,3 +6,8 @@ explicit_timeout: 10s
 #api
 gh_api: https://api.github.com
 get_users: /users
+
+#chrome_options
+chrome_options:
+  - --headless
+  - --disable-gpu

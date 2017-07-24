@@ -12,6 +12,7 @@ Type Search Keyword "${search_keyword}"
 "${repository}" Should Be Found
     [Documentation]    Verify that specified repository is found.
     Page Should Contain Link    default=/${account_name}/${repository}
+    Capture Page Screenshot
 
 Search Result Should Not Be Found
     [Documentation]    Expect search result not found.
